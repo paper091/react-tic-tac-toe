@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,14 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.square{
+  border-style: solid;
+  width: 100px;
+  height: 100px;
+  /* position: static; */
+}
+
+.parent_grid{
+  display: flex;
 }
